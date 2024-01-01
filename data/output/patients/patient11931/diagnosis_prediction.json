@@ -1,0 +1,7 @@
+{
+ "patient_id": 11931,
+ "diagnosis_prediction": {
+  "Acute pulmonary edema": 1.0,
+  "Unstable angina": 0.09
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "patient_id": 81560,
+ "diagnosis_prediction": {
+  "Possible NSTEMI / STEMI": 1.0,
+  "Pulmonary neoplasm": 0.36,
+  "SLE": 0.05,
+  "Unstable angina": 0.02,
+  "Stable angina": 0.01,
+  "Pneumonia": 0.01
+ }
+}

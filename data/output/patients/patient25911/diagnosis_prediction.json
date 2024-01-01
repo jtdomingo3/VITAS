@@ -1,0 +1,6 @@
+{
+ "patient_id": 25911,
+ "diagnosis_prediction": {
+  "Panic attack": 1.0
+ }
+}

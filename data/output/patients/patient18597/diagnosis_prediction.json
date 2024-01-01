@@ -1,0 +1,10 @@
+{
+ "patient_id": 18597,
+ "diagnosis_prediction": {
+  "Bronchospasm / acute asthma exacerbation": 1.0,
+  "Acute COPD exacerbation / infection": 1.0,
+  "Bronchitis": 0.02,
+  "Bronchiolitis": 0.02,
+  "Ebola": 0.01
+ }
+}

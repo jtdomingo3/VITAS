@@ -1,0 +1,8 @@
+{
+ "patient_id": 19860,
+ "diagnosis_prediction": {
+  "PSVT": 1.0,
+  "Myocarditis": 0.04,
+  "Atrial fibrillation": 0.02
+ }
+}

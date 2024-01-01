@@ -1,0 +1,10 @@
+{
+ "patient_id": 123565,
+ "diagnosis_prediction": {
+  "HIV (initial infection)": 1.0,
+  "Influenza": 0.07,
+  "Chagas": 0.04,
+  "Ebola": 0.02,
+  "Pancreatic neoplasm": 0.01
+ }
+}

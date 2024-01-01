@@ -1,0 +1,6 @@
+{
+ "patient_id": 121237,
+ "diagnosis_prediction": {
+  "Anemia": 1.0
+ }
+}

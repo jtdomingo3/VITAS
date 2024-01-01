@@ -1,0 +1,11 @@
+{
+ "patient_id": 23789,
+ "diagnosis_prediction": {
+  "Unstable angina": 1.0,
+  "Acute pulmonary edema": 0.02,
+  "Spontaneous pneumothorax": 0.01,
+  "Myocarditis": 0.01,
+  "Panic attack": 0.01,
+  "Possible NSTEMI / STEMI": 0.01
+ }
+}

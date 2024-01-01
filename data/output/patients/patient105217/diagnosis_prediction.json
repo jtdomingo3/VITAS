@@ -1,0 +1,8 @@
+{
+ "patient_id": 105217,
+ "diagnosis_prediction": {
+  "Whooping cough": 1.0,
+  "PSVT": 0.01,
+  "Ebola": 0.01
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "patient_id": 59238,
+ "diagnosis_prediction": {
+  "Acute laryngitis": 0.9954807692307692,
+  "Acute otitis media": 0.8506565656565652,
+  "Viral pharyngitis": 0.7601111111111112,
+  "Ebola": 0.03,
+  "Bronchitis": 0.02,
+  "Epiglottitis": 0.01
+ }
+}

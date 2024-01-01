@@ -1,0 +1,7 @@
+{
+ "patient_id": 71980,
+ "diagnosis_prediction": {
+  "Localized edema": 1.0,
+  "Pulmonary embolism": 0.7726190476190475
+ }
+}

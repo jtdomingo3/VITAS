@@ -1,0 +1,12 @@
+{
+ "patient_id": 997,
+ "diagnosis_prediction": {
+  "Acute otitis media": 1.0,
+  "Viral pharyngitis": 0.8873311972412352,
+  "URTI": 0.3364285714285713,
+  "Croup": 0.15,
+  "Bronchiolitis": 0.06,
+  "Acute laryngitis": 0.01,
+  "Influenza": 0.01
+ }
+}

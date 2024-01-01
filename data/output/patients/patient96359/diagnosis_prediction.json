@@ -1,0 +1,15 @@
+{
+ "patient_id": 96359,
+ "diagnosis_prediction": {
+  "Bronchitis": 1.0,
+  "Ebola": 0.19,
+  "Pulmonary neoplasm": 0.08,
+  "SLE": 0.04,
+  "Pericarditis": 0.02,
+  "Spontaneous rib fracture": 0.01,
+  "Tuberculosis": 0.01,
+  "Stable angina": 0.01,
+  "Influenza": 0.01,
+  "Pneumonia": 0.01
+ }
+}

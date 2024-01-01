@@ -1,0 +1,8 @@
+{
+ "patient_id": 3508,
+ "diagnosis_prediction": {
+  "Pneumonia": 1.0,
+  "Bronchiolitis": 0.18,
+  "Ebola": 0.01
+ }
+}

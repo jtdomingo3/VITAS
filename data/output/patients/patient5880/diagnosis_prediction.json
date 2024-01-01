@@ -1,0 +1,12 @@
+{
+ "patient_id": 5880,
+ "diagnosis_prediction": {
+  "Myocarditis": 1.0,
+  "Spontaneous pneumothorax": 0.14,
+  "Stable angina": 0.11,
+  "Chagas": 0.06,
+  "Acute pulmonary edema": 0.06,
+  "GERD": 0.02,
+  "Atrial fibrillation": 0.01
+ }
+}

@@ -1,0 +1,7 @@
+{
+ "patient_id": 82736,
+ "diagnosis_prediction": {
+  "GERD": 1.0,
+  "Bronchitis": 0.01
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "patient_id": 8590,
+ "diagnosis_prediction": {
+  "URTI": 1.0,
+  "Bronchiolitis": 0.11,
+  "Influenza": 0.05,
+  "Croup": 0.02,
+  "Ebola": 0.01
+ }
+}

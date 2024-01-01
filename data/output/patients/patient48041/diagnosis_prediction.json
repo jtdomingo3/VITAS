@@ -1,0 +1,9 @@
+{
+ "patient_id": 48041,
+ "diagnosis_prediction": {
+  "Spontaneous rib fracture": 1.0,
+  "Inguinal hernia": 0.04,
+  "Pericarditis": 0.01,
+  "GERD": 0.009000000000000001
+ }
+}

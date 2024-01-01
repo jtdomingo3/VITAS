@@ -1,0 +1,7 @@
+{
+ "patient_id": 91057,
+ "diagnosis_prediction": {
+  "Acute otitis media": 1.0,
+  "Chronic rhinosinusitis": 0.01
+ }
+}

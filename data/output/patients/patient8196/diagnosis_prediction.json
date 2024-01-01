@@ -1,0 +1,8 @@
+{
+ "patient_id": 8196,
+ "diagnosis_prediction": {
+  "Pancreatic neoplasm": 1.0,
+  "Ebola": 0.11,
+  "Pulmonary neoplasm": 0.01
+ }
+}

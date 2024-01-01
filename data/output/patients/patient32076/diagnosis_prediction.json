@@ -1,0 +1,7 @@
+{
+ "patient_id": 32076,
+ "diagnosis_prediction": {
+  "Boerhaave": 1.0,
+  "Chagas": 0.02
+ }
+}

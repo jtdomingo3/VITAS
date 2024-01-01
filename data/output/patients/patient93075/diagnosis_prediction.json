@@ -1,0 +1,9 @@
+{
+ "patient_id": 93075,
+ "diagnosis_prediction": {
+  "Acute rhinosinusitis": 1.0,
+  "Chronic rhinosinusitis": 1.0,
+  "SLE": 0.02,
+  "Possible NSTEMI / STEMI": 0.016
+ }
+}

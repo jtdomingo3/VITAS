@@ -1,0 +1,10 @@
+{
+ "patient_id": 122958,
+ "diagnosis_prediction": {
+  "Sarcoidosis": 1.0,
+  "Spontaneous pneumothorax": 0.01,
+  "Stable angina": 0.01,
+  "Pulmonary neoplasm": 0.01,
+  "Possible NSTEMI / STEMI": 0.01
+ }
+}

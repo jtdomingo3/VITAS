@@ -1,0 +1,9 @@
+{
+ "patient_id": 30486,
+ "diagnosis_prediction": {
+  "Possible NSTEMI / STEMI": 1.0,
+  "SLE": 0.02,
+  "Ebola": 0.02,
+  "Pancreatic neoplasm": 0.01
+ }
+}

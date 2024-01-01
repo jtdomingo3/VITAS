@@ -1,0 +1,14 @@
+{
+ "patient_id": 45191,
+ "diagnosis_prediction": {
+  "PSVT": 1.0,
+  "Myocarditis": 0.06,
+  "Anemia": 0.04,
+  "Pulmonary embolism": 0.04,
+  "Atrial fibrillation": 0.02,
+  "GERD": 0.01,
+  "Inguinal hernia": 0.01,
+  "Croup": 0.01,
+  "Panic attack": 0.01
+ }
+}

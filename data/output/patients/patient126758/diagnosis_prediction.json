@@ -1,0 +1,9 @@
+{
+ "patient_id": 126758,
+ "diagnosis_prediction": {
+  "Possible NSTEMI / STEMI": 1.0,
+  "Unstable angina": 0.9516666666666665,
+  "Panic attack": 0.06,
+  "Ebola": 0.01
+ }
+}

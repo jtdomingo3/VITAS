@@ -1,0 +1,9 @@
+{
+ "patient_id": 59681,
+ "diagnosis_prediction": {
+  "Localized edema": 1.0,
+  "Pulmonary embolism": 0.12746464646464647,
+  "Stable angina": 0.028333333333333335,
+  "SLE": 0.01
+ }
+}

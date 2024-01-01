@@ -1,0 +1,9 @@
+{
+ "patient_id": 38102,
+ "diagnosis_prediction": {
+  "Viral pharyngitis": 1.0,
+  "Acute otitis media": 0.03,
+  "Bronchiolitis": 0.02,
+  "URTI": 0.01
+ }
+}

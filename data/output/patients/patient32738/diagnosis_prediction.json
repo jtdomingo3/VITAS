@@ -1,0 +1,9 @@
+{
+ "patient_id": 32738,
+ "diagnosis_prediction": {
+  "PSVT": 1.0,
+  "Scombroid food poisoning": 0.01,
+  "Acute dystonic reactions": 0.01,
+  "Panic attack": 0.01
+ }
+}

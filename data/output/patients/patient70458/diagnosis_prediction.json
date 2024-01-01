@@ -1,0 +1,9 @@
+{
+ "patient_id": 70458,
+ "diagnosis_prediction": {
+  "Anemia": 1.0,
+  "Influenza": 0.04,
+  "Possible NSTEMI / STEMI": 0.0265,
+  "Acute otitis media": 0.009166666666666667
+ }
+}

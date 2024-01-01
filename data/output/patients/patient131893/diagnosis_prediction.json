@@ -1,0 +1,8 @@
+{
+ "patient_id": 131893,
+ "diagnosis_prediction": {
+  "Acute dystonic reactions": 1.0,
+  "PSVT": 0.03,
+  "Stable angina": 0.01
+ }
+}

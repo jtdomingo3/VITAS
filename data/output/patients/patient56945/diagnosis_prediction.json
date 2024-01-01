@@ -1,0 +1,11 @@
+{
+ "patient_id": 56945,
+ "diagnosis_prediction": {
+  "Acute rhinosinusitis": 1.0,
+  "Chronic rhinosinusitis": 1.0,
+  "GERD": 0.01,
+  "Ebola": 0.01,
+  "Acute otitis media": 0.01,
+  "Pancreatic neoplasm": 0.01
+ }
+}

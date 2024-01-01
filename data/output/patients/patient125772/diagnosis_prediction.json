@@ -1,0 +1,8 @@
+{
+ "patient_id": 125772,
+ "diagnosis_prediction": {
+  "SLE": 1.0,
+  "Unstable angina": 0.01,
+  "Pulmonary neoplasm": 0.01
+ }
+}

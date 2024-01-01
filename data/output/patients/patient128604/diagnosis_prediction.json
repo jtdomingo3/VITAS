@@ -1,0 +1,15 @@
+{
+ "patient_id": 128604,
+ "diagnosis_prediction": {
+  "URTI": 1.0,
+  "Bronchitis": 0.94,
+  "Ebola": 0.13,
+  "Viral pharyngitis": 0.03,
+  "HIV (initial infection)": 0.02,
+  "Epiglottitis": 0.02,
+  "GERD": 0.01,
+  "Acute laryngitis": 0.01,
+  "Pneumonia": 0.01,
+  "Acute rhinosinusitis": 0.01
+ }
+}

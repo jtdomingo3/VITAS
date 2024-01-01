@@ -1,0 +1,10 @@
+{
+ "patient_id": 18736,
+ "diagnosis_prediction": {
+  "PSVT": 1.0,
+  "Croup": 0.02,
+  "Atrial fibrillation": 0.02,
+  "Myocarditis": 0.01,
+  "Ebola": 0.01
+ }
+}

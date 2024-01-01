@@ -1,0 +1,10 @@
+{
+ "patient_id": 44403,
+ "diagnosis_prediction": {
+  "Acute dystonic reactions": 1.0,
+  "Bronchiolitis": 0.08,
+  "Croup": 0.06,
+  "Ebola": 0.03,
+  "Myasthenia gravis": 0.02
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "patient_id": 19938,
+ "diagnosis_prediction": {
+  "Sarcoidosis": 1.0,
+  "Unstable angina": 0.03,
+  "Spontaneous pneumothorax": 0.01,
+  "SLE": 0.01
+ }
+}

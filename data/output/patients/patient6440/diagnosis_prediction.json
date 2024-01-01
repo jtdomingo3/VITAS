@@ -1,0 +1,8 @@
+{
+ "patient_id": 6440,
+ "diagnosis_prediction": {
+  "Scombroid food poisoning": 1.0,
+  "Ebola": 0.06,
+  "Panic attack": 0.01
+ }
+}
