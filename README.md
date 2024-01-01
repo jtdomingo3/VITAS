@@ -1,10 +1,9 @@
 # VITAS 
 
-This is VITAS - Virtual Intelligent Tool for Assessment and Symptom Check. This tool predicts deffirential diagnosis given patient symptoms.
+This is VITAS - Virtual Intelligent Tool for Assessment and Symptom Check. This tool predicts differential diagnosis given patient symptoms.
 
-## Set-up
-1. Download input data from https://figshare.com/articles/dataset/DDXPlus_Dataset_English_/22687585
-2. Upload unzipped data to data/input folder
+## About the Dataset
+This repo uses the DDXPlus Dataset from https://figshare.com/articles/dataset/DDXPlus_Dataset_English_/22687585
 
 ## Usage
 1. Open notebooks in src folder
