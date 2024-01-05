@@ -3,8 +3,8 @@
  "diagnosis_prediction": {
   "Acute laryngitis": 1.0,
   "Acute otitis media": 1.0,
-  "Viral pharyngitis": 0.672397843427642,
-  "Bronchitis": 0.05,
-  "Ebola": 0.02
+  "Viral pharyngitis": 0.8522342022258113,
+  "Bronchitis": 0.02,
+  "Bronchiolitis": 0.01
  }
 }

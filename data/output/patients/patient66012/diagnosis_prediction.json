@@ -1,6 +1,8 @@
 {
  "patient_id": 66012,
  "diagnosis_prediction": {
-  "Guillain-Barr\u00e9 syndrome": 1.0
+  "Guillain-Barr\u00e9 syndrome": 1.0,
+  "Myasthenia gravis": 0.02,
+  "Ebola": 0.01
  }
 }

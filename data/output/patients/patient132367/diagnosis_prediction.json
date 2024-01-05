@@ -1,10 +1,6 @@
 {
  "patient_id": 132367,
  "diagnosis_prediction": {
-  "Anemia": 1.0,
-  "Possible NSTEMI / STEMI": 0.02,
-  "PSVT": 0.01,
-  "Ebola": 0.01,
-  "Acute pulmonary edema": 0.01
+  "Anemia": 1.0
  }
 }

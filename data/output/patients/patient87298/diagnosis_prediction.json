@@ -2,6 +2,6 @@
  "patient_id": 87298,
  "diagnosis_prediction": {
   "Localized edema": 1.0,
-  "Spontaneous pneumothorax": 0.01
+  "Pulmonary embolism": 0.01714285714285714
  }
 }

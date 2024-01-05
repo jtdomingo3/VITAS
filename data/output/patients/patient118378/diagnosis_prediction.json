@@ -2,9 +2,10 @@
  "patient_id": 118378,
  "diagnosis_prediction": {
   "Atrial fibrillation": 1.0,
-  "Bronchiolitis": 0.13,
-  "PSVT": 0.06,
+  "Bronchiolitis": 0.15,
+  "PSVT": 0.05,
   "Croup": 0.02,
-  "Myocarditis": 0.02
+  "Anemia": 0.01,
+  "Ebola": 0.01
  }
 }

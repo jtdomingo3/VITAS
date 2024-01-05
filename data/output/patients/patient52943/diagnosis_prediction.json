@@ -2,7 +2,6 @@
  "patient_id": 52943,
  "diagnosis_prediction": {
   "Influenza": 1.0,
-  "Pneumonia": 0.02,
-  "HIV (initial infection)": 0.01
+  "Pneumonia": 0.04
  }
 }

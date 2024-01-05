@@ -2,8 +2,7 @@
  "patient_id": 66339,
  "diagnosis_prediction": {
   "URTI": 1.0,
-  "Influenza": 0.6,
-  "Ebola": 0.03,
-  "Possible NSTEMI / STEMI": 0.01
+  "Influenza": 0.05,
+  "Ebola": 0.03
  }
 }

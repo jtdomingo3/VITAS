@@ -2,9 +2,8 @@
  "patient_id": 3017,
  "diagnosis_prediction": {
   "Pneumonia": 1.0,
-  "Pulmonary neoplasm": 0.02,
-  "Bronchitis": 0.01,
+  "Spontaneous rib fracture": 0.01,
   "Pulmonary embolism": 0.01,
-  "Bronchiolitis": 0.01
+  "Pulmonary neoplasm": 0.01
  }
 }

@@ -2,12 +2,14 @@
  "patient_id": 45594,
  "diagnosis_prediction": {
   "Sarcoidosis": 1.0,
-  "Chagas": 0.26,
-  "Spontaneous pneumothorax": 0.14,
-  "Pulmonary neoplasm": 0.09866666666666665,
-  "Stable angina": 0.03,
-  "Myocarditis": 0.028333333333333332,
-  "Pulmonary embolism": 0.01,
+  "Chagas": 0.23,
+  "Pulmonary neoplasm": 0.08416666666666667,
+  "SLE": 0.04,
+  "Spontaneous pneumothorax": 0.02,
+  "Stable angina": 0.02,
+  "Myocarditis": 0.01933333333333333,
+  "Ebola": 0.01,
+  "Possible NSTEMI / STEMI": 0.01,
   "Pericarditis": 0.01
  }
 }

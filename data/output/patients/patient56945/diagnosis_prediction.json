@@ -3,9 +3,7 @@
  "diagnosis_prediction": {
   "Acute rhinosinusitis": 1.0,
   "Chronic rhinosinusitis": 1.0,
-  "GERD": 0.01,
-  "Ebola": 0.01,
-  "Acute otitis media": 0.01,
-  "Pancreatic neoplasm": 0.01
+  "Bronchitis": 0.01,
+  "Acute laryngitis": 0.006666666666666666
  }
 }

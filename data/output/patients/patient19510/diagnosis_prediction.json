@@ -2,8 +2,7 @@
  "patient_id": 19510,
  "diagnosis_prediction": {
   "Viral pharyngitis": 1.0,
-  "Bronchitis": 0.02,
-  "Bronchiolitis": 0.02,
-  "Acute otitis media": 0.01
+  "Bronchitis": 0.023,
+  "Bronchiolitis": 0.01
  }
 }

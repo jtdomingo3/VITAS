@@ -2,7 +2,7 @@
  "patient_id": 36771,
  "diagnosis_prediction": {
   "HIV (initial infection)": 1.0,
-  "Influenza": 0.14,
-  "Ebola": 0.01
+  "Influenza": 0.07,
+  "Chagas": 0.01
  }
 }

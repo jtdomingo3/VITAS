@@ -2,9 +2,8 @@
  "patient_id": 70938,
  "diagnosis_prediction": {
   "URTI": 1.0,
-  "Influenza": 0.13,
-  "Ebola": 0.04,
-  "Acute otitis media": 0.01,
+  "Influenza": 0.09,
+  "Ebola": 0.03,
   "Bronchitis": 0.01
  }
 }

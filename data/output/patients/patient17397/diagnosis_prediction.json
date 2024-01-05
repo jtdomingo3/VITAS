@@ -3,10 +3,9 @@
  "diagnosis_prediction": {
   "Stable angina": 1.0,
   "Possible NSTEMI / STEMI": 1.0,
-  "SLE": 0.91,
-  "Anemia": 0.89,
-  "Pulmonary neoplasm": 0.6266666666666666,
-  "Unstable angina": 0.08833333333333333,
-  "Pulmonary embolism": 0.01
+  "SLE": 0.98,
+  "Unstable angina": 0.85,
+  "Anemia": 0.43,
+  "Pulmonary neoplasm": 0.11
  }
 }

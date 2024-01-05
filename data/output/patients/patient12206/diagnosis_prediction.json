@@ -2,9 +2,7 @@
  "patient_id": 12206,
  "diagnosis_prediction": {
   "Pericarditis": 1.0,
-  "Myocarditis": 0.11583333333333332,
-  "Spontaneous pneumothorax": 0.1,
-  "SLE": 0.02,
-  "Atrial fibrillation": 0.01
+  "Myocarditis": 0.09133333333333335,
+  "Spontaneous pneumothorax": 0.02
  }
 }

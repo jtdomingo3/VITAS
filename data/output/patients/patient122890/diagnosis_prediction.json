@@ -1,8 +1,6 @@
 {
  "patient_id": 122890,
  "diagnosis_prediction": {
-  "Pericarditis": 1.0,
-  "Spontaneous pneumothorax": 0.04,
-  "Pulmonary embolism": 0.02
+  "Pericarditis": 1.0
  }
 }

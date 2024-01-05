@@ -2,14 +2,13 @@
  "patient_id": 117281,
  "diagnosis_prediction": {
   "Possible NSTEMI / STEMI": 1.0,
-  "Unstable angina": 0.9,
-  "SLE": 0.12,
-  "Myocarditis": 0.1,
-  "Spontaneous pneumothorax": 0.07,
-  "Pulmonary neoplasm": 0.04333333333333333,
-  "Stable angina": 0.04,
-  "Acute pulmonary edema": 0.02,
-  "Pericarditis": 0.02,
-  "URTI": 0.01
+  "Unstable angina": 0.5513095238095238,
+  "SLE": 0.09,
+  "Myocarditis": 0.06499999999999999,
+  "Pulmonary neoplasm": 0.06083333333333333,
+  "Spontaneous pneumothorax": 0.05,
+  "Acute pulmonary edema": 0.03,
+  "Panic attack": 0.02,
+  "Pulmonary embolism": 0.01
  }
 }

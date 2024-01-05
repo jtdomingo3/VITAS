@@ -1,7 +1,6 @@
 {
  "patient_id": 111881,
  "diagnosis_prediction": {
-  "Viral pharyngitis": 1.0,
-  "Pulmonary neoplasm": 0.01
+  "Viral pharyngitis": 1.0
  }
 }

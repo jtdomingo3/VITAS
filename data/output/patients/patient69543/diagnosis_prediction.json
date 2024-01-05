@@ -2,10 +2,8 @@
  "patient_id": 69543,
  "diagnosis_prediction": {
   "URTI": 1.0,
-  "Viral pharyngitis": 0.02,
-  "Bronchitis": 0.02,
-  "Acute otitis media": 0.012333333333333333,
-  "Ebola": 0.01,
-  "Bronchiolitis": 0.01
+  "Ebola": 0.04,
+  "Bronchitis": 0.01,
+  "Acute otitis media": 0.007647058823529411
  }
 }

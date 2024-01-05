@@ -2,9 +2,6 @@
  "patient_id": 111570,
  "diagnosis_prediction": {
   "URTI": 1.0,
-  "Ebola": 0.03,
-  "HIV (initial infection)": 0.01,
-  "Bronchitis": 0.01,
-  "Influenza": 0.01
+  "Influenza": 0.03
  }
 }

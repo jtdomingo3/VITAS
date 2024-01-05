@@ -2,9 +2,9 @@
  "patient_id": 3769,
  "diagnosis_prediction": {
   "Epiglottitis": 1.0,
-  "Ebola": 0.04,
-  "Croup": 0.01,
-  "Chagas": 0.01,
-  "Bronchiolitis": 0.01
+  "SLE": 0.02,
+  "PSVT": 0.01,
+  "Unstable angina": 0.01,
+  "Ebola": 0.01
  }
 }

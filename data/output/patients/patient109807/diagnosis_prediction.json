@@ -2,6 +2,6 @@
  "patient_id": 109807,
  "diagnosis_prediction": {
   "Acute dystonic reactions": 1.0,
-  "Pulmonary neoplasm": 0.01
+  "Epiglottitis": 0.01
  }
 }

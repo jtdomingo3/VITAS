@@ -2,10 +2,9 @@
  "patient_id": 46060,
  "diagnosis_prediction": {
   "Anemia": 1.0,
-  "PSVT": 0.03,
-  "Bronchiolitis": 0.03,
-  "GERD": 0.02,
-  "Pulmonary embolism": 0.02,
+  "PSVT": 0.02,
+  "Atrial fibrillation": 0.02,
+  "Bronchiolitis": 0.02,
   "Ebola": 0.01
  }
 }

@@ -2,11 +2,9 @@
  "patient_id": 1774,
  "diagnosis_prediction": {
   "Influenza": 1.0,
-  "Pneumonia": 0.02,
+  "Pneumonia": 0.04,
   "HIV (initial infection)": 0.01,
   "URTI": 0.01,
-  "Pulmonary neoplasm": 0.01,
-  "Possible NSTEMI / STEMI": 0.01,
   "Pancreatic neoplasm": 0.01
  }
 }

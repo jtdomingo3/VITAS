@@ -2,16 +2,14 @@
  "patient_id": 66860,
  "diagnosis_prediction": {
   "URTI": 1.0,
-  "Influenza": 0.28,
-  "Acute laryngitis": 0.085,
-  "Viral pharyngitis": 0.05,
-  "Bronchitis": 0.035,
-  "HIV (initial infection)": 0.02,
+  "Influenza": 0.2533333333333333,
+  "Acute laryngitis": 0.09857142857142857,
+  "Bronchitis": 0.040999999999999995,
+  "Acute otitis media": 0.03666666666666667,
+  "Viral pharyngitis": 0.02,
   "Ebola": 0.02,
-  "Acute otitis media": 0.02,
+  "Tuberculosis": 0.01,
   "Panic attack": 0.01,
-  "Acute rhinosinusitis": 0.01,
-  "Bronchiolitis": 0.01,
-  "Possible NSTEMI / STEMI": 0.01
+  "Bronchiolitis": 0.01
  }
 }

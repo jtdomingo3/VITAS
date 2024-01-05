@@ -1,10 +1,11 @@
 {
  "patient_id": 115100,
  "diagnosis_prediction": {
-  "Viral pharyngitis": 1.0,
-  "Acute otitis media": 0.8861467143967139,
-  "Acute rhinosinusitis": 0.6559999999999999,
-  "URTI": 0.5694166666666668,
-  "Bronchiolitis": 0.02
+  "Viral pharyngitis": 0.9719460184909292,
+  "Acute otitis media": 0.9361913108047782,
+  "URTI": 0.5892578963863794,
+  "Acute rhinosinusitis": 0.49236507936507934,
+  "Bronchitis": 0.022857142857142857,
+  "Bronchiolitis": 0.01
  }
 }

@@ -3,10 +3,9 @@
  "diagnosis_prediction": {
   "Possible NSTEMI / STEMI": 1.0,
   "Unstable angina": 0.045,
-  "Panic attack": 0.03,
   "Boerhaave": 0.02,
   "Ebola": 0.02,
-  "Pneumonia": 0.02,
+  "Panic attack": 0.02,
   "Chagas": 0.01,
   "Myocarditis": 0.01
  }

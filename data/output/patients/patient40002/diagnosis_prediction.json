@@ -1,7 +1,6 @@
 {
  "patient_id": 40002,
  "diagnosis_prediction": {
-  "Acute pulmonary edema": 1.0,
-  "Myocarditis": 0.01
+  "Acute pulmonary edema": 1.0
  }
 }

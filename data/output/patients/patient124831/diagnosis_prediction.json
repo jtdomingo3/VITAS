@@ -1,7 +1,6 @@
 {
  "patient_id": 124831,
  "diagnosis_prediction": {
-  "GERD": 1.0,
-  "Ebola": 0.01
+  "GERD": 1.0
  }
 }

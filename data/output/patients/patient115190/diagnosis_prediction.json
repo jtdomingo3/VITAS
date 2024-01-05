@@ -1,8 +1,6 @@
 {
  "patient_id": 115190,
  "diagnosis_prediction": {
-  "Larygospasm": 1.0,
-  "Atrial fibrillation": 0.01,
-  "Ebola": 0.01
+  "Larygospasm": 1.0
  }
 }

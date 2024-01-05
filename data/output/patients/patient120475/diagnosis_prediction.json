@@ -2,9 +2,8 @@
  "patient_id": 120475,
  "diagnosis_prediction": {
   "Sarcoidosis": 1.0,
-  "SLE": 0.02,
-  "Chagas": 0.01,
-  "Pericarditis": 0.01,
-  "Pulmonary neoplasm": 0.0075
+  "Pulmonary neoplasm": 0.04666666666666667,
+  "Spontaneous pneumothorax": 0.01,
+  "Chagas": 0.01
  }
 }

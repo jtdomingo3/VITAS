@@ -2,7 +2,7 @@
  "patient_id": 117149,
  "diagnosis_prediction": {
   "Acute laryngitis": 1.0,
-  "GERD": 0.03,
-  "Bronchitis": 0.005
+  "GERD": 0.02,
+  "Bronchitis": 0.02
  }
 }

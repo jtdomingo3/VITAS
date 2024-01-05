@@ -2,6 +2,7 @@
  "patient_id": 5913,
  "diagnosis_prediction": {
   "Pericarditis": 1.0,
-  "Myocarditis": 0.01
+  "Myocarditis": 0.01,
+  "Panic attack": 0.01
  }
 }

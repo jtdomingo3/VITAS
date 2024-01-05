@@ -2,6 +2,7 @@
  "patient_id": 25418,
  "diagnosis_prediction": {
   "SLE": 1.0,
-  "Anemia": 0.01
+  "Ebola": 0.01,
+  "Pulmonary embolism": 0.005
  }
 }

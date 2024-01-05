@@ -2,6 +2,8 @@
  "patient_id": 11931,
  "diagnosis_prediction": {
   "Acute pulmonary edema": 1.0,
-  "Unstable angina": 0.09
+  "Spontaneous pneumothorax": 0.04,
+  "Unstable angina": 0.01,
+  "Pulmonary neoplasm": 0.01
  }
 }

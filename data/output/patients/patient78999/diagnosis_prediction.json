@@ -2,14 +2,13 @@
  "patient_id": 78999,
  "diagnosis_prediction": {
   "Epiglottitis": 1.0,
-  "Myocarditis": 0.08,
-  "Possible NSTEMI / STEMI": 0.08,
-  "Stable angina": 0.05,
-  "Spontaneous pneumothorax": 0.03,
+  "Possible NSTEMI / STEMI": 0.06,
   "Myasthenia gravis": 0.03,
-  "SLE": 0.03,
+  "Myocarditis": 0.03,
+  "Stable angina": 0.03,
+  "Spontaneous pneumothorax": 0.02,
   "Acute laryngitis": 0.02,
-  "Pericarditis": 0.02,
-  "Acute pulmonary edema": 0.01
+  "SLE": 0.02,
+  "Pericarditis": 0.01
  }
 }

@@ -2,12 +2,10 @@
  "patient_id": 57492,
  "diagnosis_prediction": {
   "Stable angina": 1.0,
-  "Possible NSTEMI / STEMI": 0.99,
-  "Unstable angina": 0.6175,
-  "Anemia": 0.28983333333333333,
-  "SLE": 0.05,
-  "Ebola": 0.03,
-  "Pancreatic neoplasm": 0.02,
-  "Pulmonary neoplasm": 0.01
+  "Possible NSTEMI / STEMI": 1.0,
+  "Unstable angina": 0.6366666666666666,
+  "Anemia": 0.1025,
+  "SLE": 0.02,
+  "Viral pharyngitis": 0.006
  }
 }

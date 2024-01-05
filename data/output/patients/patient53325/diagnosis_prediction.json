@@ -2,14 +2,12 @@
  "patient_id": 53325,
  "diagnosis_prediction": {
   "Acute laryngitis": 1.0,
-  "Acute otitis media": 1.0,
-  "Bronchitis": 0.6878571428571427,
-  "Viral pharyngitis": 0.48042857142857137,
-  "Bronchiolitis": 0.11,
-  "Ebola": 0.06,
-  "URTI": 0.0275,
-  "Influenza": 0.02,
-  "Epiglottitis": 0.01,
-  "Tuberculosis": 0.01
+  "Acute otitis media": 0.7817358058608059,
+  "Bronchitis": 0.38535714285714284,
+  "Viral pharyngitis": 0.21875641025641027,
+  "Bronchiolitis": 0.09,
+  "Tuberculosis": 0.04,
+  "Ebola": 0.03,
+  "Croup": 0.01
  }
 }

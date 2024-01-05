@@ -2,12 +2,9 @@
  "patient_id": 31678,
  "diagnosis_prediction": {
   "Pneumonia": 1.0,
-  "Ebola": 0.04,
-  "Spontaneous pneumothorax": 0.01,
-  "Bronchiectasis": 0.01,
-  "Bronchitis": 0.01,
-  "Pulmonary embolism": 0.01,
-  "Bronchiolitis": 0.01,
+  "Ebola": 0.03,
+  "Influenza": 0.02,
+  "Spontaneous rib fracture": 0.01,
   "Pulmonary neoplasm": 0.01
  }
 }

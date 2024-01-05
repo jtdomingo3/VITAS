@@ -2,6 +2,6 @@
  "patient_id": 17728,
  "diagnosis_prediction": {
   "Allergic sinusitis": 1.0,
-  "Ebola": 0.03
+  "Ebola": 0.04
  }
 }

@@ -2,8 +2,7 @@
  "patient_id": 118107,
  "diagnosis_prediction": {
   "Allergic sinusitis": 1.0,
-  "Croup": 0.38,
-  "Bronchiolitis": 0.11,
-  "PSVT": 0.01
+  "Croup": 0.39,
+  "Bronchiolitis": 0.1
  }
 }

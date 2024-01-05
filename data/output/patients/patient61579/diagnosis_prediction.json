@@ -1,7 +1,6 @@
 {
  "patient_id": 61579,
  "diagnosis_prediction": {
-  "Panic attack": 1.0,
-  "PSVT": 0.01
+  "Panic attack": 1.0
  }
 }

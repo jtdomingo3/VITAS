@@ -2,8 +2,8 @@
  "patient_id": 48041,
  "diagnosis_prediction": {
   "Spontaneous rib fracture": 1.0,
-  "Inguinal hernia": 0.04,
-  "Pericarditis": 0.01,
-  "GERD": 0.009000000000000001
+  "Spontaneous pneumothorax": 0.03,
+  "Inguinal hernia": 0.02,
+  "Possible NSTEMI / STEMI": 0.01
  }
 }

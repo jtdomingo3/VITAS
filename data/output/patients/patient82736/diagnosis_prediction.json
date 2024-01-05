@@ -2,6 +2,7 @@
  "patient_id": 82736,
  "diagnosis_prediction": {
   "GERD": 1.0,
-  "Bronchitis": 0.01
+  "Acute otitis media": 0.01,
+  "Possible NSTEMI / STEMI": 0.006
  }
 }

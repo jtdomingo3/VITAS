@@ -2,6 +2,6 @@
  "patient_id": 83926,
  "diagnosis_prediction": {
   "Pulmonary neoplasm": 1.0,
-  "Ebola": 0.08
+  "Ebola": 0.04
  }
 }

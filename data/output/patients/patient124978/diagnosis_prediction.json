@@ -2,11 +2,11 @@
  "patient_id": 124978,
  "diagnosis_prediction": {
   "URTI": 1.0,
-  "Influenza": 0.17,
-  "Pneumonia": 0.04,
-  "Acute rhinosinusitis": 0.03,
+  "Influenza": 0.67,
+  "Ebola": 0.04,
+  "Viral pharyngitis": 0.03,
+  "Acute rhinosinusitis": 0.025,
   "Bronchiolitis": 0.02,
-  "Ebola": 0.01,
-  "Bronchitis": 0.01
+  "Acute otitis media": 0.01
  }
 }

@@ -2,9 +2,6 @@
  "patient_id": 54309,
  "diagnosis_prediction": {
   "Pancreatic neoplasm": 1.0,
-  "SLE": 0.04,
-  "Possible NSTEMI / STEMI": 0.03,
-  "Anaphylaxis": 0.01,
-  "Unstable angina": 0.01
+  "SLE": 0.01
  }
 }

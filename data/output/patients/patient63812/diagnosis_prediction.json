@@ -1,7 +1,6 @@
 {
  "patient_id": 63812,
  "diagnosis_prediction": {
-  "Pneumonia": 1.0,
-  "Ebola": 0.01
+  "Pneumonia": 1.0
  }
 }

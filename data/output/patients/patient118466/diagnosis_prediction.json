@@ -2,10 +2,10 @@
  "patient_id": 118466,
  "diagnosis_prediction": {
   "Anemia": 1.0,
-  "PSVT": 0.05,
-  "GERD": 0.02,
-  "SLE": 0.02,
+  "PSVT": 0.02,
+  "Atrial fibrillation": 0.02,
   "Bronchiolitis": 0.02,
-  "Ebola": 0.01
+  "Acute otitis media": 0.01,
+  "Influenza": 0.01
  }
 }

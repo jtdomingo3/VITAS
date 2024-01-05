@@ -2,9 +2,7 @@
  "patient_id": 33352,
  "diagnosis_prediction": {
   "Bronchospasm / acute asthma exacerbation": 1.0,
-  "Bronchiolitis": 0.04,
-  "Ebola": 0.03,
-  "Bronchitis": 0.02,
-  "Tuberculosis": 0.01
+  "Ebola": 0.02,
+  "Scombroid food poisoning": 0.01
  }
 }

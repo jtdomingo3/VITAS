@@ -2,8 +2,7 @@
  "patient_id": 60865,
  "diagnosis_prediction": {
   "Acute laryngitis": 1.0,
-  "Spontaneous rib fracture": 0.02,
-  "Epiglottitis": 0.01,
-  "Bronchitis": 0.01
+  "Epiglottitis": 0.02,
+  "Viral pharyngitis": 0.01
  }
 }

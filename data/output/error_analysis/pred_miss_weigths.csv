@@ -1,125 +1,167 @@
 Actual,Prediction Miss,weight
-GERD,Cluster headache,0.012
-GERD,Viral pharyngitis,0.321
-GERD,Acute laryngitis,0.321
-GERD,Acute otitis media,0.321
-GERD,Bronchitis,0.012
-GERD,Possible NSTEMI / STEMI,0.012
-Anemia,Myocarditis,0.083
-Anemia,SLE,0.292
-Anemia,Stable angina,0.25
-Anemia,Pulmonary embolism,0.042
-Anemia,Possible NSTEMI / STEMI,0.25
-Anemia,Pericarditis,0.083
-Viral pharyngitis,Cluster headache,0.071
-Viral pharyngitis,GERD,0.056
-Viral pharyngitis,Acute laryngitis,0.096
-Viral pharyngitis,Stable angina,0.003
-Viral pharyngitis,Acute otitis media,0.315
-Viral pharyngitis,Bronchitis,0.052
-Viral pharyngitis,URTI,0.019
-Viral pharyngitis,Acute rhinosinusitis,0.17
-Viral pharyngitis,Chronic rhinosinusitis,0.151
-Viral pharyngitis,Possible NSTEMI / STEMI,0.068
-Acute laryngitis,GERD,0.236
-Acute laryngitis,Viral pharyngitis,0.333
-Acute laryngitis,Acute otitis media,0.333
-Acute laryngitis,Bronchitis,0.097
-Myocarditis,Spontaneous pneumothorax,0.061
-Myocarditis,SLE,0.03
-Myocarditis,Unstable angina,0.03
-Myocarditis,Stable angina,0.333
-Myocarditis,Possible NSTEMI / STEMI,0.273
-Myocarditis,Pericarditis,0.273
-SLE,Anemia,0.2
-SLE,Myocarditis,0.067
-SLE,Unstable angina,0.133
-SLE,Stable angina,0.267
-SLE,Possible NSTEMI / STEMI,0.267
-SLE,Pericarditis,0.067
-Unstable angina,Spontaneous pneumothorax,0.278
-Unstable angina,Anemia,0.028
-Unstable angina,Myocarditis,0.278
-Unstable angina,SLE,0.028
-Unstable angina,Stable angina,0.333
-Unstable angina,Possible NSTEMI / STEMI,0.056
-Stable angina,Spontaneous pneumothorax,0.037
-Stable angina,Cluster headache,0.037
-Stable angina,Anemia,0.037
-Stable angina,Acute laryngitis,0.037
-Stable angina,Myocarditis,0.148
-Stable angina,SLE,0.111
-Stable angina,Unstable angina,0.074
-Stable angina,Acute otitis media,0.037
-Stable angina,Possible NSTEMI / STEMI,0.259
-Stable angina,Pericarditis,0.222
-Acute otitis media,Cluster headache,0.055
-Acute otitis media,Boerhaave,0.008
-Acute otitis media,GERD,0.059
-Acute otitis media,Viral pharyngitis,0.308
-Acute otitis media,Acute laryngitis,0.093
-Acute otitis media,Bronchitis,0.021
-Acute otitis media,URTI,0.038
-Acute otitis media,Influenza,0.004
-Acute otitis media,Acute rhinosinusitis,0.19
-Acute otitis media,Chronic rhinosinusitis,0.173
-Acute otitis media,Possible NSTEMI / STEMI,0.051
-Bronchospasm / acute asthma exacerbation,Atrial fibrillation,0.333
-Bronchospasm / acute asthma exacerbation,Bronchiectasis,0.333
-Bronchospasm / acute asthma exacerbation,Acute dystonic reactions,0.333
-Bronchitis,GERD,0.053
-Bronchitis,Viral pharyngitis,0.316
-Bronchitis,Acute laryngitis,0.149
-Bronchitis,Bronchiectasis,0.009
-Bronchitis,Acute otitis media,0.298
-Bronchitis,Acute COPD exacerbation / infection,0.009
-Bronchitis,URTI,0.026
-Bronchitis,Acute rhinosinusitis,0.096
-Bronchitis,Chronic rhinosinusitis,0.035
-Bronchitis,Bronchiolitis,0.009
-Pulmonary embolism,Cluster headache,0.04
-Pulmonary embolism,Viral pharyngitis,0.04
-Pulmonary embolism,Myocarditis,0.04
-Pulmonary embolism,Localized edema,0.04
-Pulmonary embolism,Stable angina,0.28
-Pulmonary embolism,Acute otitis media,0.04
-Pulmonary embolism,Possible NSTEMI / STEMI,0.28
-Pulmonary embolism,Pericarditis,0.24
-URTI,Viral pharyngitis,0.322
-URTI,Croup,0.006
-URTI,Acute otitis media,0.318
-URTI,Bronchitis,0.029
-URTI,Acute rhinosinusitis,0.244
-URTI,Chronic rhinosinusitis,0.061
-URTI,Bronchiolitis,0.019
-Influenza,Viral pharyngitis,0.333
-Influenza,Acute laryngitis,0.333
-Influenza,Acute otitis media,0.333
-Acute rhinosinusitis,Viral pharyngitis,0.333
-Acute rhinosinusitis,Acute otitis media,0.327
-Acute rhinosinusitis,Bronchitis,0.029
-Acute rhinosinusitis,URTI,0.111
-Acute rhinosinusitis,Chronic rhinosinusitis,0.199
-Chronic rhinosinusitis,Viral pharyngitis,0.333
-Chronic rhinosinusitis,Acute otitis media,0.333
-Chronic rhinosinusitis,Bronchitis,0.01
-Chronic rhinosinusitis,URTI,0.031
-Chronic rhinosinusitis,Acute rhinosinusitis,0.292
-Pulmonary neoplasm,Stable angina,0.333
-Pulmonary neoplasm,Possible NSTEMI / STEMI,0.333
-Pulmonary neoplasm,Pericarditis,0.333
-Possible NSTEMI / STEMI,Cluster headache,0.147
-Possible NSTEMI / STEMI,Anemia,0.04
-Possible NSTEMI / STEMI,Viral pharyngitis,0.147
-Possible NSTEMI / STEMI,Myocarditis,0.093
-Possible NSTEMI / STEMI,SLE,0.067
-Possible NSTEMI / STEMI,Unstable angina,0.027
-Possible NSTEMI / STEMI,Stable angina,0.173
-Possible NSTEMI / STEMI,Acute otitis media,0.147
-Possible NSTEMI / STEMI,Pulmonary embolism,0.013
-Possible NSTEMI / STEMI,Pulmonary neoplasm,0.013
-Possible NSTEMI / STEMI,Pericarditis,0.133
-Pericarditis,Myocarditis,0.296
-Pericarditis,SLE,0.037
-Pericarditis,Stable angina,0.333
-Pericarditis,Possible NSTEMI / STEMI,0.333
+Viral pharyngitis,Acute otitis media,0.49
+Viral pharyngitis,Cluster headache,0.213
+Viral pharyngitis,Acute laryngitis,0.116
+Viral pharyngitis,Acute rhinosinusitis,0.09
+Viral pharyngitis,Chronic rhinosinusitis,0.072
+Viral pharyngitis,GERD,0.01
+Viral pharyngitis,URTI,0.005
+Viral pharyngitis,Bronchitis,0.002
+Viral pharyngitis,Possible NSTEMI / STEMI,0.001
+Unstable angina,Stable angina,0.39
+Unstable angina,Possible NSTEMI / STEMI,0.376
+Unstable angina,Spontaneous pneumothorax,0.206
+Unstable angina,Boerhaave,0.014
+Unstable angina,Myocarditis,0.014
+URTI,Bronchitis,0.528
+URTI,Viral pharyngitis,0.25
+URTI,Acute otitis media,0.156
+URTI,Acute rhinosinusitis,0.048
+URTI,Chronic rhinosinusitis,0.018
+Tuberculosis,Bronchiectasis,0.578
+Tuberculosis,Pulmonary neoplasm,0.308
+Tuberculosis,Bronchospasm / acute asthma exacerbation,0.114
+Stable angina,Possible NSTEMI / STEMI,0.312
+Stable angina,Spontaneous pneumothorax,0.242
+Stable angina,Myocarditis,0.216
+Stable angina,Pericarditis,0.131
+Stable angina,Unstable angina,0.089
+Stable angina,SLE,0.009
+Stable angina,Cluster headache,0.002
+Spontaneous pneumothorax,Pericarditis,0.776
+Spontaneous pneumothorax,Stable angina,0.092
+Spontaneous pneumothorax,Unstable angina,0.075
+Spontaneous pneumothorax,Pulmonary embolism,0.057
+SLE,Inguinal hernia,0.471
+SLE,Pancreatic neoplasm,0.356
+SLE,Stable angina,0.077
+SLE,Possible NSTEMI / STEMI,0.058
+SLE,Anemia,0.019
+SLE,Myocarditis,0.01
+SLE,Pericarditis,0.01
+Pulmonary neoplasm,Tuberculosis,0.5
+Pulmonary neoplasm,Bronchiectasis,0.143
+Pulmonary neoplasm,Possible NSTEMI / STEMI,0.143
+Pulmonary neoplasm,Pancreatic neoplasm,0.071
+Pulmonary neoplasm,Bronchitis,0.054
+Pulmonary neoplasm,Pulmonary embolism,0.054
+Pulmonary neoplasm,Stable angina,0.018
+Pulmonary neoplasm,Pericarditis,0.018
+Pulmonary embolism,Localized edema,0.285
+Pulmonary embolism,Pericarditis,0.244
+Pulmonary embolism,Spontaneous pneumothorax,0.236
+Pulmonary embolism,Stable angina,0.057
+Pulmonary embolism,Possible NSTEMI / STEMI,0.049
+Pulmonary embolism,Viral pharyngitis,0.041
+Pulmonary embolism,Pulmonary neoplasm,0.041
+Pulmonary embolism,Acute pulmonary edema,0.033
+Pulmonary embolism,Cluster headache,0.008
+Pulmonary embolism,Myocarditis,0.008
+Possible NSTEMI / STEMI,Stable angina,0.455
+Possible NSTEMI / STEMI,Unstable angina,0.206
+Possible NSTEMI / STEMI,Pericarditis,0.099
+Possible NSTEMI / STEMI,Cluster headache,0.095
+Possible NSTEMI / STEMI,Boerhaave,0.095
+Possible NSTEMI / STEMI,Acute otitis media,0.016
+Possible NSTEMI / STEMI,Myocarditis,0.012
+Possible NSTEMI / STEMI,SLE,0.012
+Possible NSTEMI / STEMI,Pancreatic neoplasm,0.008
+Possible NSTEMI / STEMI,Viral pharyngitis,0.004
+Pneumonia,Influenza,1.0
+Pericarditis,Spontaneous pneumothorax,0.405
+Pericarditis,Myocarditis,0.345
+Pericarditis,Stable angina,0.106
+Pericarditis,PSVT,0.07
+Pericarditis,Possible NSTEMI / STEMI,0.065
+Pericarditis,Pulmonary embolism,0.006
+Pericarditis,SLE,0.003
+Panic attack,PSVT,0.5
+Panic attack,Possible NSTEMI / STEMI,0.5
+Pancreatic neoplasm,SLE,0.56
+Pancreatic neoplasm,Pulmonary neoplasm,0.32
+Pancreatic neoplasm,Inguinal hernia,0.04
+Pancreatic neoplasm,Scombroid food poisoning,0.04
+Pancreatic neoplasm,Possible NSTEMI / STEMI,0.04
+PSVT,Atrial fibrillation,0.784
+PSVT,Pericarditis,0.151
+PSVT,Myocarditis,0.065
+Myocarditis,Pericarditis,0.584
+Myocarditis,Stable angina,0.221
+Myocarditis,PSVT,0.142
+Myocarditis,Possible NSTEMI / STEMI,0.035
+Myocarditis,Anemia,0.009
+Myocarditis,Atrial fibrillation,0.009
+Localized edema,Pulmonary embolism,1.0
+Inguinal hernia,SLE,0.891
+Inguinal hernia,Pancreatic neoplasm,0.109
+Influenza,HIV (initial infection),0.688
+Influenza,URTI,0.25
+Influenza,Viral pharyngitis,0.031
+Influenza,Acute otitis media,0.031
+HIV (initial infection),Influenza,1.0
+GERD,Acute otitis media,0.317
+GERD,Viral pharyngitis,0.238
+GERD,Acute laryngitis,0.206
+GERD,Pericarditis,0.159
+GERD,Boerhaave,0.032
+GERD,Anemia,0.032
+GERD,Cluster headache,0.016
+Ebola,Tuberculosis,1.0
+Cluster headache,Acute otitis media,0.682
+Cluster headache,Viral pharyngitis,0.268
+Cluster headache,Possible NSTEMI / STEMI,0.05
+Chronic rhinosinusitis,Acute rhinosinusitis,0.933
+Chronic rhinosinusitis,Viral pharyngitis,0.044
+Chronic rhinosinusitis,Acute otitis media,0.023
+Bronchospasm / acute asthma exacerbation,Acute COPD exacerbation / infection,0.666
+Bronchospasm / acute asthma exacerbation,Bronchiectasis,0.232
+Bronchospasm / acute asthma exacerbation,Tuberculosis,0.1
+Bronchospasm / acute asthma exacerbation,Atrial fibrillation,0.001
+Bronchospasm / acute asthma exacerbation,Acute dystonic reactions,0.001
+Bronchitis,URTI,0.736
+Bronchitis,Viral pharyngitis,0.104
+Bronchitis,Acute otitis media,0.075
+Bronchitis,Acute laryngitis,0.042
+Bronchitis,Chronic rhinosinusitis,0.014
+Bronchitis,Pulmonary neoplasm,0.009
+Bronchitis,GERD,0.005
+Bronchitis,Tuberculosis,0.005
+Bronchitis,Acute COPD exacerbation / infection,0.005
+Bronchitis,Acute rhinosinusitis,0.005
+Bronchiectasis,Acute COPD exacerbation / infection,0.459
+Bronchiectasis,Tuberculosis,0.313
+Bronchiectasis,Bronchospasm / acute asthma exacerbation,0.219
+Bronchiectasis,Pulmonary neoplasm,0.009
+Boerhaave,Possible NSTEMI / STEMI,0.947
+Boerhaave,GERD,0.026
+Boerhaave,Unstable angina,0.026
+Atrial fibrillation,PSVT,1.0
+Anemia,Stable angina,0.348
+Anemia,Possible NSTEMI / STEMI,0.304
+Anemia,PSVT,0.174
+Anemia,Myocarditis,0.087
+Anemia,SLE,0.043
+Anemia,Pericarditis,0.043
+Anaphylaxis,SLE,1.0
+Acute rhinosinusitis,Chronic rhinosinusitis,0.91
+Acute rhinosinusitis,Viral pharyngitis,0.057
+Acute rhinosinusitis,Acute otitis media,0.03
+Acute rhinosinusitis,URTI,0.003
+Acute pulmonary edema,Myocarditis,0.5
+Acute pulmonary edema,Pulmonary embolism,0.5
+Acute otitis media,Viral pharyngitis,0.497
+Acute otitis media,Acute laryngitis,0.208
+Acute otitis media,Cluster headache,0.186
+Acute otitis media,Acute rhinosinusitis,0.047
+Acute otitis media,Chronic rhinosinusitis,0.041
+Acute otitis media,GERD,0.01
+Acute otitis media,URTI,0.006
+Acute otitis media,Bronchitis,0.002
+Acute otitis media,Possible NSTEMI / STEMI,0.002
+Acute otitis media,Croup,0.001
+Acute laryngitis,Acute otitis media,0.615
+Acute laryngitis,Viral pharyngitis,0.364
+Acute laryngitis,GERD,0.015
+Acute laryngitis,Bronchitis,0.005
+Acute COPD exacerbation / infection,Bronchospasm / acute asthma exacerbation,0.737
+Acute COPD exacerbation / infection,Bronchiectasis,0.263

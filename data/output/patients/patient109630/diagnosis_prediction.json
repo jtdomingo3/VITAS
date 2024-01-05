@@ -2,9 +2,8 @@
  "patient_id": 109630,
  "diagnosis_prediction": {
   "Sarcoidosis": 1.0,
-  "Anemia": 0.03,
-  "Bronchiolitis": 0.02,
+  "Chagas": 0.02,
   "Spontaneous pneumothorax": 0.01,
-  "HIV (initial infection)": 0.01
+  "Ebola": 0.01
  }
 }

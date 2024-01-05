@@ -2,12 +2,10 @@
  "patient_id": 53328,
  "diagnosis_prediction": {
   "Viral pharyngitis": 1.0,
-  "Acute otitis media": 0.99,
-  "Acute rhinosinusitis": 0.9508333333333334,
-  "URTI": 0.48483333333333334,
-  "Bronchiolitis": 0.07,
-  "Croup": 0.03,
-  "Ebola": 0.01,
-  "Chronic rhinosinusitis": 0.01
+  "Acute rhinosinusitis": 1.0,
+  "Acute otitis media": 0.898641067266067,
+  "URTI": 0.24425834296422522,
+  "Bronchiolitis": 0.05,
+  "Chronic rhinosinusitis": 0.009166666666666667
  }
 }

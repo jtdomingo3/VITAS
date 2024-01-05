@@ -2,8 +2,8 @@
  "patient_id": 90448,
  "diagnosis_prediction": {
   "Pericarditis": 1.0,
-  "Myocarditis": 0.96,
-  "PSVT": 0.02,
-  "Spontaneous pneumothorax": 0.01
+  "Myocarditis": 0.99,
+  "Spontaneous pneumothorax": 0.04,
+  "PSVT": 0.01
  }
 }
